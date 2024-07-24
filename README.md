@@ -2,12 +2,8 @@
 
 ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
-This project contains a Flappy Bird game developed using the Python programming language and the Pygame game development library. In this project, reflecting the classic and entertaining game mechanics, players control a bird and navigate it through obstacles to see how long they can survive.
-
+This project contains a Flappy Bird game developed using the Python programming language and the Pygame game development library.
 ## Gameplay
-
-The player's objective is to control the bird, maneuvering it through pipes and earning the highest score possible. Players can make the bird flap upwards by pressing the spacebar on the keyboard. However, precise timing is essential to prevent the bird from falling too quickly. If the bird collides with pipes or the ground, the game ends.
-
 ![screen record](gaming.gif)
 
 ## How to Play
@@ -18,12 +14,6 @@ The player's objective is to control the bird, maneuvering it through pipes and 
 4. Start the game by using the command `python3 main.py`.
 5. Use the spacebar key on the keyboard to control the bird's upward movement.
 6. If the player collides, they can restart the game by pressing the ESC key.
-
-## Why This Project?
-
-- A great opportunity to enhance your fundamental Python programming skills.
-- An engaging and interactive way to dive into game programming.
-- A chance to practice game mechanics and using the Pygame library.
 
 ## Contributions and Development
 
